@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nomsi
+- 👋 Hi, I’m [@nomsi](https://www.gofundme.com/f/then-leave-okay-then)
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on stuff
